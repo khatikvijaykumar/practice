@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(149, 238, 238);
+}
+#box{
+    border: 1px solid black;
+    width: 800px;
+    height: 450px;
+    position: relative;
+    top: 70px;
+    left: 360px;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    box-shadow: inset -5px -5px 5px  rgb(176, 176, 176),5px 5px 10px 10px rgb(0, 201, 191);
+}
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkgray;
+}
+#emoj{
+    position: relative;
+    left: 230px;
+    font-size: 250px;
+}
+#btnemo{
+    position: relative;
+    top: 55px;
+    left: 360px;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: aquamarine;
+    box-shadow:inset -5px -5px 5px rgb(0, 213, 149), 5px 5px 5px rgb(179, 179, 179);
+    color:aquamarine ;
+    font-size: 1px;
+    
+
+}
+
+
+
+
